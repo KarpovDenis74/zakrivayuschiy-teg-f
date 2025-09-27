@@ -520,7 +520,7 @@
   display: inline-block;
 }
 
-.diskette-form[open] .diskette{
+.diskette-form[open] .diskette {
   display: flex;
   flex-direction: column;
   gap: 30px;
@@ -528,7 +528,7 @@
   padding: 30px;
 }
 
-.diskette-form:not([open]) .diskette{
+.diskette-form:not([open]) .diskette {
   pointer-events: none;
   opacity: 0;
 }
