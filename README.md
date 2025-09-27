@@ -4,7 +4,7 @@
 
 # Клонирование репозитория
 
-```git clone git@github.com:KarpovDenis74/slozhno-sosredotochitsya-fd.git```
+```git clone git@github.com:KarpovDenis74/zakrivayuschiy-teg-f.git```
 
 # Запуск проекта: 
 
